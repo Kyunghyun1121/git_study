@@ -1,3 +1,3 @@
 init building directory
 build1 make
-test
+build2 make
